@@ -26,6 +26,6 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "swiper": "^6.0.4"
+    "swiper": "^6.5.1"
   }
 }
